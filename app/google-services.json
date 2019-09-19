@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1003076316078",
+    "firebase_url": "https://homesweethome-521d1.firebaseio.com",
+    "project_id": "homesweethome-521d1",
+    "storage_bucket": "homesweethome-521d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003076316078:android:8fd6acab50ed4f131db63f",
+        "android_client_info": {
+          "package_name": "rex.homeSweetHome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003076316078-8psrd7ovq78eocor5s69lf60579a94pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDstB2Tg3k5_FrA2x0ocvMMwUnr3J6MFxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003076316078-8psrd7ovq78eocor5s69lf60579a94pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

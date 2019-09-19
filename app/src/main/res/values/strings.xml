@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cômodos Casa 3</string>
+    <string name="banheiro">Banheiro</string>
+    <string name="cozinha1">Cozinha</string>
+    <string name="sala_de_estar">Sala de Estar</string>
+    <string name="cozinha2">Cozinha</string>
+    <string name="quarto1">Quarto1</string>
+    <string name="quarto2">Quarto2</string>
+    <string name="quarto3">Quarto3</string>
+    <string name="lampada1">Lâmpada:</string>
+    <string name="ar1">Ar:</string>
+    <string name="ar2">Ar:</string>
+    <string name="ar3">Ar:</string>
+    <string name="lampada2">Lâmpada:</string>
+    <string name="lampada3">Lâmpada:</string>
+    <string name="lampada4">Lâmpada:</string>
+    <string name="lampada5">Lâmpada:</string>
+    <string name="lampada6">Lâmpada:</string>
+    <string name="corredor">Corredor</string>
+    <string name="lampada7">Lâmpada:</string>
+    <string name="c_modos_casa_3">Cômodos Casa 3</string>
+</resources>
